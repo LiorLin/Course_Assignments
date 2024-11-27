@@ -14,9 +14,9 @@ def on_press(key):
             game_running = False
             return False  # Stop the listener
         elif key.char == 'n':
-            print("Starting a new game..")
-            new_game = True
-            return False  # Stop the listener
+            print("Starting a new game...")
+            new_game = True    
+            return False #return False
         elif key.char == 's':
             print(f"The hidden number is {secret_num}, you cheater!")
             return False  # Stop the listener
@@ -62,8 +62,13 @@ def game_core(secret_num):
             else:
                 print(f"That's right! It took you {guess_counter} tries.")
             break  # Exit the loop when the correct guess is made
-        
+
+        if new_game == True:
+            break
+
     listener.stop()
+    if new_game:
+        return True
     
     # At the end of the game, we ask the user if they want to start a new game:
     response = input("Do you want to start a new game? (yes/no) ").lower()
