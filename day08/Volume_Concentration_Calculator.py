@@ -144,5 +144,5 @@ calculate_button.grid(row=3, column=0, columnspan=6, pady=10)
 result_label = tk.Label(root, text="")
 result_label.grid(row=4, column=0, columnspan=6, pady=5)
 
-# Starting the main loop
+print("c")# Starting the main loop
 root.mainloop()
