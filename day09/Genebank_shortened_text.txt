@@ -1,0 +1,328 @@
+LOCUS       NC_000021               9239 bp    DNA     linear   CON 26-AUG-2024
+DEFINITION  Homo sapiens chromosome 21, GRCh38.p14 Primary Assembly.
+ACCESSION   NC_000021 REGION: 31659693..31668931
+VERSION     NC_000021.9
+DBLINK      BioProject: PRJNA168
+            Assembly: GCF_000001405.40
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 9239)
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Finishing the euchromatic sequence of the human genome
+  JOURNAL   Nature 431 (7011), 931-945 (2004)
+   PUBMED   15496913
+REFERENCE   2  (bases 1 to 9239)
+  AUTHORS   Lander,E.S., Linton,L.M., Birren,B., Nusbaum,C., Zody,M.C.,
+            Baldwin,J., Devon,K., Dewar,K., Doyle,M., FitzHugh,W., Funke,R.,
+            Gage,D., Harris,K., Heaford,A., Howland,J., Kann,L., Lehoczky,J.,
+            LeVine,R., McEwan,P., McKernan,K., Meldrim,J., Mesirov,J.P.,
+            Miranda,C., Morris,W., Naylor,J., Raymond,C., Rosetti,M.,
+            Santos,R., Sheridan,A., Sougnez,C., Stange-Thomann,N.,
+            Stojanovic,N., Subramanian,A., Wyman,D., Rogers,J., Sulston,J.,
+            Ainscough,R., Beck,S., Bentley,D., Burton,J., Clee,C., Carter,N.,
+            Coulson,A., Deadman,R., Deloukas,P., Dunham,A., Dunham,I.,
+            Durbin,R., French,L., Grafham,D., Gregory,S., Hubbard,T.,
+            Humphray,S., Hunt,A., Jones,M., Lloyd,C., McMurray,A., Matthews,L.,
+            Mercer,S., Milne,S., Mullikin,J.C., Mungall,A., Plumb,R., Ross,M.,
+            Shownkeen,R., Sims,S., Waterston,R.H., Wilson,R.K., Hillier,L.W.,
+            McPherson,J.D., Marra,M.A., Mardis,E.R., Fulton,L.A.,
+            Chinwalla,A.T., Pepin,K.H., Gish,W.R., Chissoe,S.L., Wendl,M.C.,
+            Delehaunty,K.D., Miner,T.L., Delehaunty,A., Kramer,J.B., Cook,L.L.,
+            Fulton,R.S., Johnson,D.L., Minx,P.J., Clifton,S.W., Hawkins,T.,
+            Branscomb,E., Predki,P., Richardson,P., Wenning,S., Slezak,T.,
+            Doggett,N., Cheng,J.F., Olsen,A., Lucas,S., Elkin,C.,
+            Uberbacher,E., Frazier,M., Gibbs,R.A., Muzny,D.M., Scherer,S.E.,
+            Bouck,J.B., Sodergren,E.J., Worley,K.C., Rives,C.M., Gorrell,J.H.,
+            Metzker,M.L., Naylor,S.L., Kucherlapati,R.S., Nelson,D.L.,
+            Weinstock,G.M., Sakaki,Y., Fujiyama,A., Hattori,M., Yada,T.,
+            Toyoda,A., Itoh,T., Kawagoe,C., Watanabe,H., Totoki,Y., Taylor,T.,
+            Weissenbach,J., Heilig,R., Saurin,W., Artiguenave,F., Brottier,P.,
+            Bruls,T., Pelletier,E., Robert,C., Wincker,P., Smith,D.R.,
+            Doucette-Stamm,L., Rubenfield,M., Weinstock,K., Lee,H.M.,
+            Dubois,J., Rosenthal,A., Platzer,M., Nyakatura,G., Taudien,S.,
+            Rump,A., Yang,H., Yu,J., Wang,J., Huang,G., Gu,J., Hood,L.,
+            Rowen,L., Madan,A., Qin,S., Davis,R.W., Federspiel,N.A.,
+            Abola,A.P., Proctor,M.J., Myers,R.M., Schmutz,J., Dickson,M.,
+            Grimwood,J., Cox,D.R., Olson,M.V., Kaul,R., Raymond,C., Shimizu,N.,
+            Kawasaki,K., Minoshima,S., Evans,G.A., Athanasiou,M., Schultz,R.,
+            Roe,B.A., Chen,F., Pan,H., Ramser,J., Lehrach,H., Reinhardt,R.,
+            McCombie,W.R., de la Bastide,M., Dedhia,N., Blocker,H.,
+            Hornischer,K., Nordsiek,G., Agarwala,R., Aravind,L., Bailey,J.A.,
+            Bateman,A., Batzoglou,S., Birney,E., Bork,P., Brown,D.G.,
+            Burge,C.B., Cerutti,L., Chen,H.C., Church,D., Clamp,M.,
+            Copley,R.R., Doerks,T., Eddy,S.R., Eichler,E.E., Furey,T.S.,
+            Galagan,J., Gilbert,J.G., Harmon,C., Hayashizaki,Y., Haussler,D.,
+            Hermjakob,H., Hokamp,K., Jang,W., Johnson,L.S., Jones,T.A.,
+            Kasif,S., Kaspryzk,A., Kennedy,S., Kent,W.J., Kitts,P.,
+            Koonin,E.V., Korf,I., Kulp,D., Lancet,D., Lowe,T.M., McLysaght,A.,
+            Mikkelsen,T., Moran,J.V., Mulder,N., Pollara,V.J., Ponting,C.P.,
+            Schuler,G., Schultz,J., Slater,G., Smit,A.F., Stupka,E.,
+            Szustakowski,J., Thierry-Mieg,D., Thierry-Mieg,J., Wagner,L.,
+            Wallis,J., Wheeler,R., Williams,A., Wolf,Y.I., Wolfe,K.H.,
+            Yang,S.P., Yeh,R.F., Collins,F., Guyer,M.S., Peterson,J.,
+            Felsenfeld,A., Wetterstrand,K.A., Patrinos,A., Morgan,M.J., de
+            Jong,P., Catanese,J.J., Osoegawa,K., Shizuya,H., Choi,S. and
+            Chen,Y.J.
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Initial sequencing and analysis of the human genome
+  JOURNAL   Nature 409 (6822), 860-921 (2001)
+   PUBMED   11237011
+  REMARK    Erratum:[Nature 2001 Aug 2;412(6846):565]
+REFERENCE   3  (bases 1 to 9239)
+  AUTHORS   Hattori,M., Fujiyama,A., Taylor,T.D., Watanabe,H., Yada,T.,
+            Park,H.S., Toyoda,A., Ishii,K., Totoki,Y., Choi,D.K., Groner,Y.,
+            Soeda,E., Ohki,M., Takagi,T., Sakaki,Y., Taudien,S.,
+            Blechschmidt,K., Polley,A., Menzel,U., Delabar,J., Kumpf,K.,
+            Lehmann,R., Patterson,D., Reichwald,K., Rump,A., Schillhabel,M.,
+            Schudy,A., Zimmermann,W., Rosenthal,A., Kudoh,J., Schibuya,K.,
+            Kawasaki,K., Asakawa,S., Shintani,A., Sasaki,T., Nagamine,K.,
+            Mitsuyama,S., Antonarakis,S.E., Minoshima,S., Shimizu,N.,
+            Nordsiek,G., Hornischer,K., Brant,P., Scharfe,M., Schon,O.,
+            Desario,A., Reichelt,J., Kauer,G., Blocker,H., Ramser,J., Beck,A.,
+            Klages,S., Hennig,S., Riesselmann,L., Dagand,E., Haaf,T.,
+            Wehrmeyer,S., Borzym,K., Gardiner,K., Nizetic,D., Francis,F.,
+            Lehrach,H., Reinhardt,R. and Yaspo,M.L.
+  CONSRTM   Chromosome 21 mapping and sequencing consortium
+  TITLE     The DNA sequence of human chromosome 21
+  JOURNAL   Nature 405 (6784), 311-319 (2000)
+   PUBMED   10830953
+  REMARK    Erratum:[Nature 2000 Sep 7;407(6800):110]
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM000683.2.
+            
+            On Feb 3, 2014 this sequence version replaced NC_000021.8.
+            Assembly Name: GRCh38.p14 Primary Assembly
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Human Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            https://genomereference.org.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI RefSeq
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: GCF_000001405.40-RS_2024_08
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 10.3
+            Annotation Method           :: Best-placed RefSeq; Gnomon;
+                                           RefSeqFE; cmsearch; tRNAscan-SE
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            Annotation Date             :: 08/23/2024
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..9239
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="21"
+     gene            complement(<1..332)
+                     /gene="SOD1-DT"
+                     /note="SOD1 divergent transcript; Derived by automated
+                     computational analysis using gene prediction method:
+                     BestRefSeq."
+                     /db_xref="GeneID:102724449"
+                     /db_xref="HGNC:HGNC:55683"
+     ncRNA           complement(<1..332)
+                     /ncRNA_class="lncRNA"
+                     /gene="SOD1-DT"
+                     /product="SOD1 divergent transcript"
+                     /inference="similar to RNA sequence (same
+                     species):RefSeq:NR_187558.1"
+                     /exception="annotated by transcript or proteomic data"
+                     /note="The RefSeq transcript has 1 non-frameshifting indel
+                     compared to this genomic sequence; Derived by automated
+                     computational analysis using gene prediction method:
+                     BestRefSeq."
+                     /transcript_id="NR_187558.1"
+                     /db_xref="GeneID:102724449"
+                     /db_xref="HGNC:HGNC:55683"
+     gene            1..9239
+                     /gene="SOD1"
+                     /gene_synonym="ALS; ALS1; HEL-S-44; homodimer; hSod1;
+                     IPOA; SOD; STAHP"
+                     /note="superoxide dismutase 1; Derived by automated
+                     computational analysis using gene prediction method:
+                     BestRefSeq."
+                     /db_xref="GeneID:6647"
+                     /db_xref="HGNC:HGNC:11179"
+                     /db_xref="MIM:147450"
+     mRNA            join(1..149,4098..4194,6757..6826,7566..7683,8779..9239)
+                     /gene="SOD1"
+                     /gene_synonym="ALS; ALS1; HEL-S-44; homodimer; hSod1;
+                     IPOA; SOD; STAHP"
+                     /product="superoxide dismutase 1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_000454.5"
+                     /db_xref="Ensembl:ENST00000270142.11"
+                     /db_xref="GeneID:6647"
+                     /db_xref="HGNC:HGNC:11179"
+                     /db_xref="MIM:147450"
+     CDS             join(78..149,4098..4194,6757..6826,7566..7683,8779..8886)
+                     /gene="SOD1"
+                     /gene_synonym="ALS; ALS1; HEL-S-44; homodimer; hSod1;
+                     IPOA; SOD; STAHP"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="superoxide dismutase [Cu-Zn]"
+                     /protein_id="NP_000445.1"
+                     /db_xref="CCDS:CCDS33536.1"
+                     /db_xref="Ensembl:ENSP00000270142.7"
+                     /db_xref="GeneID:6647"
+                     /db_xref="HGNC:HGNC:11179"
+                     /db_xref="MIM:147450"
+                     /translation="MATKAVCVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLH
+                     GFHVHEFGDNTAGCTSAGPHFNPLSRKHGGPKDEERHVGDLGNVTADKDGVADVSIED
+                     SVISLSGDHCIIGRTLVVHEKADDLGKGGNEESTKTGNAGSRLACGVIGIAQ"
+     mat_peptide     81..140
+                     /gene="SOD1"
+                     /gene_synonym="ALS; ALS1; HEL-S-44; homodimer; hSod1;
+                     IPOA; SOD; STAHP"
+                     /product="superoxide dismutase [Cu-Zn]"
+                     /note="SOD1 antimicrobial peptide 5"
+     misc_feature    81..83
+                     /gene="SOD1"
+                     /gene_synonym="ALS; ALS1; HEL-S-44; homodimer; hSod1;
+                     IPOA; SOD; STAHP"
+                     /note="N-acetylalanine.
+                     /evidence=ECO:0000269|PubMed:1463506,
+                     ECO:0000269|PubMed:7002610, ECO:0007744|PubMed:25944712;
+                     propagated from UniProtKB/Swiss-Prot (P00441.2);
+                     acetylation site"
+     misc_feature    7621..7623
+                     /gene="SOD1"
+                     /gene_synonym="ALS; ALS1; HEL-S-44; homodimer; hSod1;
+                     IPOA; SOD; STAHP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:18669648,
+                     ECO:0007744|PubMed:20068231, ECO:0007744|PubMed:24275569;
+                     propagated from UniProtKB/Swiss-Prot (P00441.2);
+                     phosphorylation site"
+     misc_feature    7633..7635
+                     /gene="SOD1"
+                     /gene_synonym="ALS; ALS1; HEL-S-44; homodimer; hSod1;
+                     IPOA; SOD; STAHP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P00441.2); phosphorylation site"
+     misc_feature    7642..7644
+                     /gene="SOD1"
+                     /gene_synonym="ALS; ALS1; HEL-S-44; homodimer; hSod1;
+                     IPOA; SOD; STAHP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P07632; propagated from
+                     UniProtKB/Swiss-Prot (P00441.2); phosphorylation site"
+     misc_feature    7648..7650
+                     /gene="SOD1"
+                     /gene_synonym="ALS; ALS1; HEL-S-44; homodimer; hSod1;
+                     IPOA; SOD; STAHP"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P08228; propagated from
+                     UniProtKB/Swiss-Prot (P00441.2); phosphorylation site"
+     misc_feature    8788..8790
+                     /gene="SOD1"
+                     /gene_synonym="ALS; ALS1; HEL-S-44; homodimer; hSod1;
+                     IPOA; SOD; STAHP"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0007744|PubMed:19608861; propagated from
+                     UniProtKB/Swiss-Prot (P00441.2); acetylation site"
+     misc_feature    8830..8832
+                     /gene="SOD1"
+                     /gene_synonym="ALS; ALS1; HEL-S-44; homodimer; hSod1;
+                     IPOA; SOD; STAHP"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P08228; propagated from
+                     UniProtKB/Swiss-Prot (P00441.2); acetylation site"
+     misc_feature    204..483
+                     /standard_name="ATAC-STARR-seq lymphoblastoid silent
+                     region 13242"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:130066533"
+     regulatory      204..483
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="silent region_13242"
+                     /function="represses an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:130066533"
+     misc_feature    644..843
+                     /standard_name="ATAC-STARR-seq lymphoblastoid active
+                     region 18354"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:130066534"
+     regulatory      644..843
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="active region_18354"
+                     /function="activates an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:130066534"
+     misc_feature    1343..1852
+                     /standard_name="H3K4me1 hESC enhancer
+                     GRCh37_chr21:33033348-33033857"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:127894521"
+     regulatory      1343..1852
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:30033119]"
+                     /note="H3K4me1 hESC enhancer chr21:33033348-33033857
+                     (GRCh37/hg19 assembly coordinates)"
+                     /function="activates a minimal SCP1, AML or CMV promoter
+                     by ChIP-STARR-seq in primed H9 embryonic stem cells
+                     {active_cell/tissue: H9 hESC(primed)}"
+                     /db_xref="GeneID:127894521"
+     misc_feature    1853..2361
+                     /standard_name="H3K4me1 hESC enhancer
+                     GRCh37_chr21:33033858-33034366"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:127894522"
+     regulatory      1853..2361
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:30033119]"
+                     /note="H3K4me1 hESC enhancer chr21:33033858-33034366
+                     (GRCh37/hg19 assembly coordinates)"
+                     /function="activates a minimal SCP1, AML or CMV promoter
+                     by ChIP-STARR-seq in primed H9 embryonic stem cells
+                     {active_cell/tissue: H9 hESC(primed)}"
+                     /db_xref="GeneID:127894522"
+     gene            4614..4790
+                     /gene="LOC124900469"
+                     /note="small nucleolar RNA SNORA81; Derived by automated
+                     computational analysis using gene prediction method:
+                     cmsearch."
+                     /db_xref="GeneID:124900469"
+     ncRNA           4614..4790
+                     /ncRNA_class="snoRNA"
+                     /gene="LOC124900469"
+                     /product="small nucleolar RNA SNORA81"
+                     /inference="COORDINATES: nucleotide
+                     motif:Rfam:12.0:RF01241"
+                     /inference="COORDINATES: profile:INFERNAL:1.1.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: cmsearch."
+                     /transcript_id="XR_007067939.1"
+                     /db_xref="GeneID:124900469"
+                     /db_xref="RFAM:RF01241"
+ORIGIN      
+        1 gcgtcgtagt ctcctgcagc gtctggggtt tccgttgcag tcctcggaac caggacctcg
